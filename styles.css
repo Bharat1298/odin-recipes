@@ -1,0 +1,25 @@
+body {
+    color: palevioletred;
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+ul {
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.title {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+div {
+    text-align: center;
+}
